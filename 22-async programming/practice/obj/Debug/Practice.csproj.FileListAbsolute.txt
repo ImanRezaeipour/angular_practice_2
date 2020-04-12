@@ -1,0 +1,25 @@
+C:\Users\h_khatami\Desktop\Recently Project\Practice\bin\Debug\Practice.exe.config
+C:\Users\h_khatami\Desktop\Recently Project\Practice\bin\Debug\Practice.exe
+C:\Users\h_khatami\Desktop\Recently Project\Practice\bin\Debug\Practice.pdb
+C:\Users\h_khatami\Desktop\Recently Project\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+C:\Users\h_khatami\Desktop\Recently Project\Practice\obj\Debug\Practice.exe
+C:\Users\h_khatami\Desktop\Recently Project\Practice\obj\Debug\Practice.pdb
+E:\Dropbox\4-New Discover\190-Async\bin\Debug\Practice.exe.config
+E:\Dropbox\4-New Discover\190-Async\obj\Debug\Practice.exe
+E:\Dropbox\4-New Discover\190-Async\obj\Debug\Practice.pdb
+E:\Dropbox\4-New Discover\190-Async\bin\Debug\Practice.exe
+E:\Dropbox\4-New Discover\190-Async\bin\Debug\Practice.pdb
+E:\Dropbox\4-New Discover\190-Async\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+D:\Dropbox\4-New Discover\190-Async\bin\Debug\Practice.exe.config
+D:\Dropbox\4-New Discover\190-Async\obj\Debug\Practice.exe
+D:\Dropbox\4-New Discover\190-Async\obj\Debug\Practice.pdb
+D:\Dropbox\4-New Discover\190-Async\bin\Debug\Practice.exe
+D:\Dropbox\4-New Discover\190-Async\bin\Debug\Practice.pdb
+D:\Dropbox\4-New Discover\190-Async\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+C:\Users\H.Khatami\Desktop\Async\bin\Debug\Practice.exe.config
+C:\Users\H.Khatami\Desktop\Async\bin\Debug\Practice.exe
+C:\Users\H.Khatami\Desktop\Async\bin\Debug\Practice.pdb
+C:\Users\H.Khatami\Desktop\Async\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+C:\Users\H.Khatami\Desktop\Async\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\H.Khatami\Desktop\Async\obj\Debug\Practice.exe
+C:\Users\H.Khatami\Desktop\Async\obj\Debug\Practice.pdb
